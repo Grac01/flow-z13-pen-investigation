@@ -1,4 +1,4 @@
-## Future work
+# Future work
 A list of the currently completed steps and steps yet to be undertaken in this investigation
 
 - [x] Capture HID descriptor
