@@ -1,1 +1,8 @@
-
+- [x] Capture HID descriptor
+- [x] Capture runtime HID reports
+- [x] Analyse hid-input.c
+- [ ] Analyse ELAN driver
+- [ ] Investigate I2C-HID initialisation
+- [ ] Compare against official ASUS pen
+- [ ] Search Linux mailing list
+- [ ] Draft upstream bug report
