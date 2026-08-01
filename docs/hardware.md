@@ -1,3 +1,7 @@
+##Hardware
+A list of the hardware, BIOS version and kernel version that I am investigating
+
+
 - Device: ASUS ROG Flow Z13 2024 (GZ301VU)
 - BIOS Version: GZ301VU.316
 - Touch Digitiser: ELAN9008
