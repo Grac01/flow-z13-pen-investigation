@@ -1,4 +1,4 @@
-##Hardware
+## Hardware
 A list of the hardware, BIOS version and kernel version that I am investigating
 
 
